@@ -1,2 +1,3 @@
-	name: Zijie Zhu|Surrender
-	markdown: kramdown
+name: Zijie Zhu|Surrender
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
